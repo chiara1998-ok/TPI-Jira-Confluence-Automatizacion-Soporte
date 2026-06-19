@@ -2,7 +2,7 @@
 
 # Trabajo Práctico Integrador - Organización Empresarial
 
-## Alumna
+Alumna
 
 Chiara Diaz
 
